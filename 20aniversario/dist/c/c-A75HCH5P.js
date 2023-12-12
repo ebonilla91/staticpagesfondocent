@@ -1,0 +1,1 @@
+import{a as e,b as o}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-3ZELX36Q.js";o();var p=async(t,r,i)=>e.get(`/api/viewer/project/${t}/widgets`,{pageId:r},{priority:"high",signal:i});export{p as a};

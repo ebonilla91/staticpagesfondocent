@@ -1,0 +1,1 @@
+import{b as i}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-IDSWT3EJ.js";var t=i(e=>{"use strict";Object.defineProperty(e,"__esModule",{value:!0});e.minifyCSSString=n;function n(r){return r.replace(/\n/g,"").replace(/\s\s+/g," ")}});export{t as a};

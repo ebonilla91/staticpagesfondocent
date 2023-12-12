@@ -1,0 +1,1 @@
+import{a as n}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-IDSWT3EJ.js";function o(){return!!!(typeof window<"u"&&window.document)}function i(){return o()?{pathname:"",search:""}:window.location}var e=n(()=>{"use strict"});export{o as a,i as b,e as c};

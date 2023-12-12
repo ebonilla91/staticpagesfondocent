@@ -1,0 +1,1 @@
+import{a as t}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-IDSWT3EJ.js";var o,n,i=t(()=>{o=({widget:e})=>{e&&e.isDragging&&(e.isDragging=!1,e.mag.isWidgetDragging=!1,document.body.style.pointerEvents==="none"&&(document.body.style.pointerEvents=""))},n=o});i();export{n as default};

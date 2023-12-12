@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fondocentroamericano.org/sitemap.xml

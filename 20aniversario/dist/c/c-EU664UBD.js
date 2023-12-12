@@ -1,0 +1,1 @@
+import{a as o}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-IDSWT3EJ.js";var r,s,d=o(()=>{r=async({widget:e})=>{let t=e?.$el?.[0];t&&e.cursorStyle&&(t.style.cursor=e.cursorStyle)},s=r});d();export{s as default};

@@ -1,0 +1,1 @@
+import{a as i}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-OWKND2N3.js";import{b as n}from"https://d1id5eheivyv24.cloudfront.net/98c7974b/dist/c/c-IDSWT3EJ.js";var a=n(t=>{"use strict";var e=i();t.createRoot=e.createRoot,t.hydrateRoot=e.hydrateRoot;var s});export{a};
